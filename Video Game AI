@@ -1,0 +1,48 @@
+# Video Game AI
+
+Welcome to the Video Game AI repository! This repository hosts a collection of open-source projects, algorithms, and resources related to artificial intelligence in video games. Whether you are interested in game AI research, development, or simply exploring how AI techniques can enhance gameplay experiences, you'll find a variety of resources to delve into.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Projects](#projects)
+- [Algorithms and Techniques](#algorithms-and-techniques)
+- [Resources](#resources)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+The Video Game AI repository aims to provide a hub for sharing knowledge and resources related to AI in video games. It covers various aspects of game AI, including pathfinding, behavior trees, decision-making, machine learning, and more. Whether you are a game developer, AI enthusiast, or researcher, you'll find valuable resources to explore and contribute to.
+
+## Projects
+The repository includes a collection of game AI projects, such as:
+- Enemy AI Systems
+- NPC (Non-Player Character) Behavior
+- Real-time Strategy (RTS) AI
+- Player Behavior Analysis
+- Procedural Content Generation
+- Game-playing Agents and Bots
+- Adaptive Difficulty Systems
+
+Each project has its own directory, including a README.md file with a brief description, implementation details, usage instructions, and relevant documentation.
+
+## Algorithms and Techniques
+The repository hosts a variety of AI algorithms and techniques commonly used in video game development, such as:
+- Pathfinding Algorithms (A*, Dijkstra, etc.)
+- Behavior Trees
+- Finite State Machines
+- Fuzzy Logic
+- Neural Networks
+- Reinforcement Learning
+- Genetic Algorithms
+- Swarm Intelligence
+
+Each algorithm or technique has its own directory, including a README.md file with an overview, implementation details, and usage examples.
+
+## Resources
+The repository provides a list of curated resources, research papers, tutorials, and articles related to video game AI. These resources cover a wide range of topics, from introductory materials to advanced research papers in the field of game AI.
+
+## Contributing
+Contributions to the Video Game AI repository are welcome! If you have developed a game AI project, implemented a game AI algorithm, or know of any valuable resources, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file to contribute your project or resource.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
